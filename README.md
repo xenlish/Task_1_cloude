@@ -1,12 +1,14 @@
-This repository contains a solution for a recruitment task.  
-The goal is to implement the `add_virtual_column` function that adds a calculated column to a Pandas DataFrame, based on a given formula.
+# Task_1_Cloude (Jupyter Notebook)
 
-## 📋 Requirements
-- Python 3.8+
-- pandas
-- pytest
+This repository contains a Jupyter Notebook solution for a recruitment task:
+implementing `add_virtual_column(df, role, new_column)` that adds a calculated
+column to a Pandas DataFrame using `+`, `-`, `*`.
 
-## 🚀 Installation
+## Requirements
+- Python 3.9+
+- pip
+
+## Setup
 ```bash
 git clone https://github.com/xenlish/Task_1_cloude.git
 cd Task_1_cloude
